@@ -7,7 +7,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 | :--- | :--- | :--- |
 | [Nombre del Aprendiz 1] | Líder (Arquitecto) | `@usuario1` |
 | [Nombre del Aprendiz 2] | Desarrollador | `@usuario2` |
-| [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
+| [Jose David Castro 3] | Desarrollador | `@jose-castro-ortiz` |
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
@@ -32,3 +32,4 @@ Somos profesionales en formación. Si surgen problemas, actuaremos así:
 
 ---
 > **Firma Digital:** La creación de este archivo y los commits asociados a él representan la firma electrónica de aceptación de todos los integrantes de este equipo.
+jose_castro
