@@ -11,7 +11,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
-* **Comunicación Oficial y Archivos:** [Ej: correo corporativo / Microsoft Teams]
+* **Comunicación Oficial y Archivos:** [Ej: correo corporativo]
 * **Urgencias o bloqueos rápidos:** [Ej: Grupo de WhatsApp]
 * **Gestión de Tareas y Código:** Estrictamente a través de los *Issues* y *Pull Requests* de GitHub. (No se revisa código por WhatsApp).
 
