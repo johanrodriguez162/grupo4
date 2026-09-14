@@ -40,3 +40,4 @@ jose_castro_ortiz
 nota: se ponen de acuerdo para seleccionar nuevo horario
 
 johan rodriguez
+juan diego
