@@ -41,3 +41,5 @@ nota: se ponen de acuerdo para seleccionar nuevo horario
 
 johan rodriguez
 Jose castro
+juan diego
+
